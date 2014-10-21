@@ -28,9 +28,9 @@ Tooltips Text			#1A1A1A
 Screenshots
 ============
 
-![alt tag](https://n0oir.fedorapeople.org/Screenshot.png)
+![alt tag](https://n0oir.fedorapeople.org/Screenshot-2.png)
 
-![alt tag](https://n0oir.fedorapeople.org/Screenshot-1.png)
+![alt tag](https://n0oir.fedorapeople.org/Screenshot-4.png)
 
 Thanks
 ============
