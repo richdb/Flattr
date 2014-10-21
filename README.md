@@ -7,7 +7,6 @@ ClearLook
 
 Here are the custom color of the theme
 
-			Text
 
 Window Background 		#DCD9DD
 
